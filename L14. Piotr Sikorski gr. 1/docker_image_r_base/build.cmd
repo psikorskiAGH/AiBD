@@ -1,0 +1,1 @@
+docker build -t psikorski/docker_image_r_base .
